@@ -40,4 +40,4 @@ By the end of this workshop, you should be able to:
 
 ---
 
-> This repo is designed to be explored — you don't need to understand everything at once. Each step builds on the last. Use the README files in each subdirectory to guide your work.
+> This repo is designed to be explored — you don't need to understand everything and all code should be thoroughly explained in comments.
